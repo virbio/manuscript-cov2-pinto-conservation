@@ -1,0 +1,13 @@
+---
+name: gisaid-epicov
+channels:
+- conda-forge
+- bioconda
+- defaults
+dependencies:
+- parallel=20200322
+- dos2unix=7.4.1
+- seqkit=0.12.1
+- mafft=7.455
+- exonerate=2.4.0
+- bioconductor-biostrings=2.54.0

@@ -1,4 +1,4 @@
-This workflow was used to extract spike gene variants observed in GISAID SARS-CoV-2 sequences relative to the [reference sequence](https://www.ncbi.nlm.nih.gov/protein/1796318598) in [Pinto et al, __Structural and functional analysis of a potent sarbecovirus neutralizing antibody__, bioRxiv (2020)](https://www.biorxiv.org/content/10.1101/2020.04.07.023903v3). Tested on macOS 10.15.4.
+This workflow was used to extract spike gene variants observed in GISAID SARS-CoV-2 sequences relative to the [reference sequence](https://www.ncbi.nlm.nih.gov/protein/1796318598) in [Pinto et al, __Cross-neutralization of SARS-CoV-2 by a human monoclonal SARS-CoV antibody__, Nature (2020) *DOI:10.1038/s41586-020-2349-y*](https://doi.org/10.1038/s41586-020-2349-y). Tested on macOS 10.15.4.
 
 ## Environment setup
 
